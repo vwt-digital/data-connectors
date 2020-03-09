@@ -1,5 +1,5 @@
 {
     "BaseUrl": "https://api.example.com",
     "Token": "abcdefghijklmnopqrstuvwxyz0123456789",
-    "Query": "/data?start=0&limit=3000"
+    "Query": "/data?page_size=3000"
 }
